@@ -9,6 +9,10 @@ Project 0 CUDA Getting Started
 ### Test Images
 
 ![](images/config-test.bmp)
+
 Sample Image
+
+
 ![](images/timeline-diagnostics.bmp)
+
 NSight Diagnostics

@@ -13,6 +13,10 @@ Project 0 CUDA Getting Started
 Sample Image
 
 
+
+
+
+
 ![](images/timeline-diagnostics.bmp)
 
 NSight Diagnostics
